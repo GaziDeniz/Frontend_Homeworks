@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+h1{
+    font-size: 48px;
+    color: #93FFD8;
+}
+h2{
+    font-size: 32px;
+    color: #548CFF;
+}
+p{
+    font-size: 24px;
+    color: whitesmoke;
+}
+
+ol{
+    font-size: 24px;
+    list-style-position: inside;
+    color: whitesmoke;
+}
+ul{
+    font-size: 24px;
+    list-style-position: inside;
+    color: whitesmoke;
+}
